@@ -124,6 +124,17 @@ parametrizadas), impedindo ataques de SQL injection.
 
 **Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 35 mil · 🧹 0 *(0 · 0 · -1)*
 
+## Rodada 3
+
+**Tipo:** rodada · **Voto:** C
+
+**Justificativa:**
+
+Auditar as contas retroativas antecipa possíveis problemas futuros com as contas já
+abertas, por conta da auditoria do BACEN.
+
+**Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 45 mil · 🧹 0 *(0 · +10 · 0)*
+
 ---
 
 ## 🔎 O caminho do MEU grupo (preencher na 3ª aula, quando o mapa for revelado)
