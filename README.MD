@@ -20,7 +20,7 @@
 | Pedro Lima | RM565461 |
 | Gustavo Maia | RM562240 |
 | Gustavo Rossi | RM566075 |
-| *(a confirmar)* | *(a confirmar)* |
+| A confirmar | A confirmar |
 
 > **Obs.:** ainda não temos o nome do 5º integrante; enviaremos ao professor na **quarta-feira, 07/10**.
 
@@ -31,8 +31,8 @@
 2. Substituam o conteúdo do `README.md` por este template (no navegador, pelo próprio
    GitHub, ou clonando):
    ```bash
-   git clone https://github.com/<conta>/cp6-warroom-<nome-do-grupo>.git
-   cd cp6-warroom-<nome-do-grupo>
+   git clone https://github.com/gustavopmaia/cp6-warroom-xenon.git
+   cd cp6-warroom-xenon
    # substitua o conteúdo do README.md por este template e:
    git add .
    git commit -m "chore: ficha em branco do grupo"
@@ -111,7 +111,7 @@ segurança × faturamento × dívida). "Porque é mais seguro" não é justifica
 Solução rápida (40 min) que preserva a regra de negócio; o teste garante que a regra
 seja seguida da maneira esperada e traz maior retorno no longo prazo.
 
-**Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 35 mil · 🧹 1 *(+1 · +35 · -1)*
+**Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 35 mil · 🧹 1
 
 ## Rodada 2
 
@@ -122,7 +122,7 @@ seja seguida da maneira esperada e traz maior retorno no longo prazo.
 Solução rápida (50 min) e segura, que usa o padrão do framework (consultas
 parametrizadas), impedindo ataques de SQL injection.
 
-**Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 35 mil · 🧹 0 *(0 · 0 · -1)*
+**Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 35 mil · 🧹 0
 
 ## Rodada 3
 
@@ -133,7 +133,7 @@ parametrizadas), impedindo ataques de SQL injection.
 Auditar as contas retroativas antecipa possíveis problemas futuros com as contas já
 abertas, por conta da auditoria do BACEN.
 
-**Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 45 mil · 🧹 0 *(0 · +10 · 0)*
+**Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 45 mil · 🧹 0
 
 ---
 
