@@ -113,6 +113,17 @@ seja seguida da maneira esperada e traz maior retorno no longo prazo.
 
 **Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 35 mil · 🧹 1 *(+1 · +35 · -1)*
 
+## Rodada 2
+
+**Tipo:** rodada · **Voto:** D
+
+**Justificativa:**
+
+Solução rápida (50 min) e segura, que usa o padrão do framework (consultas
+parametrizadas), impedindo ataques de SQL injection.
+
+**Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 35 mil · 🧹 0 *(0 · 0 · -1)*
+
 ---
 
 ## 🔎 O caminho do MEU grupo (preencher na 3ª aula, quando o mapa for revelado)
