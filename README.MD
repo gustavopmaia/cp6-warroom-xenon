@@ -135,6 +135,10 @@ abertas, por conta da auditoria do BACEN.
 
 **Placar do grupo após esta decisão:** 🔥 8 · 💰 R$ 45 mil · 🧹 0
 
++1 + 25 -1
+0 0 0
+0 0 +1
+
 ---
 
 ## 🔎 O caminho do MEU grupo (preencher na 3ª aula, quando o mapa for revelado)
